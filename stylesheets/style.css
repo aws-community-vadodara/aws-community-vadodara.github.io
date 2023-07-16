@@ -46,6 +46,7 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 
 /* line 38, ../sass/shared/_site.scss */
@@ -1668,7 +1669,7 @@ ul.circle li {
   #page .section-3 .right .right_in > div {
     flex-direction: column;
     justify-content: flex-start;
-    align-items: flex-start;
+    /*align-items: flex-start;*/
     padding: 10px !important;
   }
 }
@@ -1724,7 +1725,7 @@ ul.circle li {
   /* line 522, ../sass/shared/_home.scss */
   #page .section-3 .right .right_in > div {
     padding: 0 15px;
-    width: 50%;
+    width: 100%;
     height: auto;
   }
 }
@@ -1985,6 +1986,10 @@ ul.circle li {
 
 #page .section-5 .sponsors .cats .flex-it .f1 > div:not(.head).cloud-tech {
   background-image: url(../images/spons/cloud-tech.jpeg);
+}
+
+#page .section-5 .sponsors .cats .flex-it .f1 > div:not(.head).navrachna-uni {
+  background-image: url(../images/spons/navrachna-uni.png);
 }
 
 #page .section-5 .sponsors .cats .flex-it .f1 > div:not(.head).ahmedabad {
@@ -2851,3 +2856,4 @@ div#map iframe {
   top: 0;
   left: 0;
 }
+
