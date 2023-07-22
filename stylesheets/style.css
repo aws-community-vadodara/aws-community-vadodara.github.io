@@ -2004,6 +2004,10 @@ ul.circle li {
   background-image: url(../images/spons/crayon.png);
   background-size: 100%;
 }
+#page .section-5 .sponsors .cats .flex-it .f1 > div:not(.head).singlestoredb {
+  background-image: url(../images/spons/singlestoredb.png);
+  background-size: 100%;
+}
 
 #page .section-5 .sponsors .cats .flex-it .f1 > div:not(.head).intuitive {
   background-image: url(../images/spons/intuitive.jpeg);
