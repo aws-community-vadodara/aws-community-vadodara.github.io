@@ -2344,7 +2344,7 @@ ul.circle li {
   background-image: url(../images/vols/smit.jpg);
 }
 
-#page .section-6 .volunteers .vl-i .person[data-fname="Jay"] .img {
+#page .section-6 .volunteers .vl-i .person[data-fname="Jay"][data-lname="Patel"] .img {
   background-image: url(../images/vols/jay.jpg);
 }
 
@@ -2359,7 +2359,60 @@ ul.circle li {
 #page .section-6 .volunteers .vl-i .person[data-fname="Kishor"] .img {
   background-image: url(../images/vols/kishor-mistry.jpeg);
 }
-
+#page .section-6 .volunteers .vl-i .person[data-fname="Akash"] .img {
+  background-image: url(../images/vols/akash.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Ashish"] .img {
+  background-image: url(../images/vols/Ashish-Profile.png);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Neel"][data-lname="Shah"] .img {
+  background-image: url(../images/vols/neel.jpeg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="PANKTI"] .img {
+  background-image: url(../images/vols/Pankti-Pandya.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Nishant"] .img {
+  background-image: url(../images/vols/Nishant-Viroja.jpg);data-label="nshah"
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Shikha"] .img {
+  background-image: url(../images/vols/Shikha-Thakkar.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Jay"] .img {
+  background-image: url(../images/vols/JAY-SHAH.jpeg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Purvesh"] .img {
+  background-image: url(../images/vols/Purvesh-Panchal.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Harsh"] .img {
+  background-image: url(../images/vols/Harsh-patel.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Dhruvil"] .img {
+  background-image: url(../images/vols/dhruvil-soni.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Hitiksha"] .img {
+  background-image: url(../images/vols/Modi-Hitiksha.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Jhanvi"] .img {
+  background-image: url(../images/vols/Jhanvi-Gupta.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Nayan"] .img {
+  background-image: url(../images/vols/Nayan-Radadiya.png);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Khushal"] .img {
+  background-image: url(../images/vols/Khushal-Dave.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Vrushali"] .img {
+  background-image: url(../images/vols/Vrushali-Mhaskar.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Varada"] .img {
+  background-image: url(../images/vols/Varada-Deshpande.png);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Priyal"] .img {
+  background-image: url(../images/vols/Priyal-Jadav.jpg);
+}
+#page .section-6 .volunteers .vl-i .person[data-fname="Bhakti"] .img {
+  background-image: url(../images/vols/Bhakti-Pathak.jpeg);
+}
 /* line 1056, ../sass/shared/_home.scss */
 #page .section-7 {
   margin: -50px auto 100px;
